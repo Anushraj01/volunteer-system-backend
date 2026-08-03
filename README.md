@@ -2,7 +2,7 @@
 
 VolunteerHub is a full-stack web application designed to streamline volunteer management and event registration for the NayePankh Foundation. The system allows users to view upcoming community events, register for available slots with real-time capacity tracking, and provides administrative controls for managing event listings.
 
-## 🚀 Live Demo
+## 🚀 Live Demo of this
 
 * **Live Website (Frontend):** (https://bespoke-dusk-e49300.netlify.app/)
 * **Backend API Service:** (https://volunteer-system-backend.onrender.com)
